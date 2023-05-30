@@ -27,11 +27,11 @@
     "vite": "^3.2.2"
   },
   "dependencies": {
+    "@storybook/addon-a11y": "^6.5.13",
     "@tuliooov-ignite-ui-design-system/eslint-config": "*",
     "@tuliooov-ignite-ui-design-system/react": "*",
     "@tuliooov-ignite-ui-design-system/tokens": "*",
     "@tuliooov-ignite-ui-design-system/ts-config": "*",
-    "@storybook/addon-a11y": "^6.5.13",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",
     "react": "^18.2.0",
