@@ -1,0 +1,4 @@
+{
+    "extends": "@tuliooov-ignite-ui-design-system/ts-config/base.json",
+    "include": ["src"],
+}
