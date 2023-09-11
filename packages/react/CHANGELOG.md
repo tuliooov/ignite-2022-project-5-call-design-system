@@ -1,5 +1,11 @@
 # @tuliooov-ignite-ui-design-system/react
 
+## 3.0.0
+
+### Major Changes
+
+- add display name to all components
+
 ## 2.2.0
 
 ### Minor Changes
