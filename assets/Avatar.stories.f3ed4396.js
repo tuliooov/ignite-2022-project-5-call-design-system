@@ -1,0 +1,2 @@
+import{A as t}from"./index.2210d18a.js";import"./index.f956463c.js";import"./iframe.91177b17.js";import"./index.35c95413.js";import"./jsx-runtime.08467b4d.js";const e={title:"Data display/Avatar",component:t,args:{src:"https://github.com/tuliooov-andrade-d-oliveira.png",alt:"tuliooov Oliveira"},argTypes:{src:{control:{type:"text"}}}},l={},p={args:{src:void 0}},c=["Primary","WithFallback"];export{l as Primary,p as WithFallback,c as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories.f3ed4396.js.map
